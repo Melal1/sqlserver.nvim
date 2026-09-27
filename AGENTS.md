@@ -3,11 +3,10 @@
 This repo is intended to become `sqlserver.nvim`, a SQL Server-native Neovim
 workspace.
 
-Read these before making broad changes:
-
-- `docs/vision.md`
-- `docs/roadmap.md`
-- `docs/architecture.md`
+Read the [README](README.md) and [architecture](docs/architecture.md) before
+making broad changes. Check the [roadmap project](https://github.com/users/NicholasMata/projects/1)
+and [release milestones](https://github.com/NicholasMata/sqlserver.nvim/milestones)
+for planned work; review parent issues before creating sub-issues.
 
 The starting code is seeded from `mssql.nvim`. Treat inherited code as useful
 working material, not as fixed architecture.

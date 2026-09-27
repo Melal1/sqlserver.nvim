@@ -1,9 +1,10 @@
 # Contributing
 
-Read [the vision](docs/vision.md), [the roadmap](docs/roadmap.md), and
-[the architecture](docs/architecture.md) before making broad changes. The
-project prioritizes a reliable query and object workflow over broad SSMS-style
-administration features.
+Read the [README](README.md) and [architecture](docs/architecture.md) before
+making broad changes. The [roadmap project](https://github.com/users/NicholasMata/projects/1)
+shows work status; [release milestones](https://github.com/NicholasMata/sqlserver.nvim/milestones)
+and their parent issues define planned scope. The project prioritizes a reliable
+query and object workflow over broad SSMS-style administration features.
 
 ## Local setup
 

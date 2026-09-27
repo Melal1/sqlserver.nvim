@@ -80,8 +80,8 @@ completed rather than offer a general assurance.
 
 - [ ] Promote the release-candidate entries in the `next` branch's
   `CHANGELOG.md` to a `1.0.0` section dated on release day.
-- [ ] Confirm `README.md`, configuration, usage, public API, migration, and
-  roadmap documentation match the release.
+- [ ] Confirm `README.md`, configuration, usage, public API, and migration
+  documentation match the release.
 - [ ] Update the commented `version` in the README installation example to the
   release tag so users can opt into an exact, reproducible pin.
 - [ ] Merge the validated `next` release into `main`, then create an annotated
