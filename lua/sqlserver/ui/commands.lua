@@ -118,7 +118,7 @@ local function completion_items(arg_lead, _, _)
   end
 
   local matched = {}
-  local wordln, itemsln = #arg_lead, #items
+  local wordln = #arg_lead
   arg_lead = arg_lead:lower()
 
   for _, item in ipairs(items) do
